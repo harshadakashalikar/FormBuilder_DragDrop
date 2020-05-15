@@ -77,6 +77,7 @@ ul.neo-nav li a:link {
     padding-left: 0px;
     padding-right: 0px;
     z-index: 2;
+    height: 100%;
 }
 
 .tab-container {
@@ -199,6 +200,7 @@ a[data-toggle="collapse"].collapsed i.fa-minus-square-o {
 .orange-txt {
     color: orange;
 }
+
 /* #sidebar-tab-content{
     overflow-y: scroll;
 } */
